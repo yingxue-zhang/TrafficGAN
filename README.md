@@ -1,8 +1,7 @@
 # TrafficGAN
 The codes and data of paper "TrafficGAN: Off-Deployment Traffic Estimation with Traffic Generative Adversarial Networks". 
 
-![Generator of TrafficGAN](images/G.png)
-![Discriminator of TrafficGAN](images/D.png)
+![Overview of TrafficGAN](images/structure.png)
 This is the overview of TrafficGAN. The implementation is realized using Pytorch.
 
 
